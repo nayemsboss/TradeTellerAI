@@ -1,0 +1,2 @@
+# TradeTellerAI
+good
